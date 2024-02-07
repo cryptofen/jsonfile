@@ -1,0 +1,25 @@
+{
+  "name": "LIQVID",
+  "symbol": "LVID",
+  "uri": "https://example.com/token/1",
+  "seller_fee_basis_points": 200,
+  "fee_recipient": "Dz92wFbXHbZ9Q3rUqjoVUnVPa3Yji1H5aNmJjdjwN2Xf",
+  "seller_fee_collection_address": "Dz92wFbXHbZ9Q3rUqjoVUnVPa3Yji1H5aNmJjdjwN2Xf",
+  "image": "https://github.com/cryptofen/ImageName/blob/main/Untitled.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "Dz92wFbXHbZ9Q3rUqjoVUnVPa3Yji1H5aNmJjdjwN2Xf",
+        "share": 100
+      }
+    ]
+  }
+}
